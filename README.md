@@ -8,4 +8,4 @@ All in one subdomain Enumeration tool
 4) bash Submax.sh
 
 # Video demo
-[![asciicast](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk.png)](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk)
+[![asciicast](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk)]
