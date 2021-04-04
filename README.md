@@ -9,3 +9,9 @@ All in one subdomain Enumeration tool
 
 # Video demo
 [![asciicast](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk.png)](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk)
+
+
+
+
+<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
+
