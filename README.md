@@ -8,10 +8,10 @@ All in one subdomain Enumeration tool
 4) bash Submax.sh
 
 # Video demo
+
+click the below video to see the demo
+
 [![asciicast](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk.png)](https://asciinema.org/a/h9tAC0XfNeRcxvGErCbGYSUlk)
 
 
-
-
-<a href="https://asciinema.org/a/14?autoplay=1"><img src="https://asciinema.org/a/14.png" width="836"/></a>
 
