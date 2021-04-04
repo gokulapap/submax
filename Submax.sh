@@ -14,8 +14,9 @@ printf "\n${YELLOW}[*] Installing Requirements..please wait !\n"
 apt install toilet &> /dev/null
 
 toilet -f slant -F gay submax
+printf "${YELLOW}                            - BY GOKUL"
 
-printf "\n${WHITE}[!] Enter domain to Enumerate subdomains : "
+printf "\n\n${WHITE}[!] Enter domain to Enumerate subdomains : "
 read -r url
 
 printf "${BLUE}\n[*] Subdomain Enumeration started!\n"
