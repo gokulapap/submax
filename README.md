@@ -1,4 +1,4 @@
-# submax
+# Submax 
 All in one subdomain Enumeration tool
 
 # Usage
